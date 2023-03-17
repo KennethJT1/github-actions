@@ -14,6 +14,6 @@ app.get("/", (_req, _res) => {
 
 // Server setup
 app.listen(port, () => {
-  console.log(`TypeScript with Express
+  console.log(`Kenneth app at
 		http://localhost:${port}/`);
 });
